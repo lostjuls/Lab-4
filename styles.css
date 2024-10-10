@@ -22,3 +22,5 @@ p{font-family: Arial, sans-serif;}
 .custom-font{font-family: 'Times New Roman';}
 
 h1{text-transform: uppercase;}
+
+.capitalize-text{text-transform: capitalize;}
