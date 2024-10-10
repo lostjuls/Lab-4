@@ -1,7 +1,13 @@
 header{background-color: blue; color: white;}
+
 .container{
     background-color: lightgray; color: black}
    p{color: red;}
    .highlight{color: green}
-   
+  
 .main-content{background-color: yellow;}
+
+.center{text-align: center;}
+
+
+
